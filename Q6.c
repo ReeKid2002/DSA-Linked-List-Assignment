@@ -51,12 +51,10 @@ void ret(struct node *t)
 };
 void main()
 {
-    insert();
-    insert();
-    insert();
-    insert();
-    insert();
-    insert();
+    for(int i=0; i<6;i++)
+    {
+        insert();
+    }
     display();
     ret(start);
 }
