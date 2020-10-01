@@ -21,7 +21,7 @@ void insert()
     else
     {
         last->next = t;
-        last = t;
+        last = t;   //good program
     }
 }
 void display()
