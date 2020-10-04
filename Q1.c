@@ -1,5 +1,3 @@
-
-//doing question 1
 #include<stdio.h>
 #include<malloc.h>
 struct node
